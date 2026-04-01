@@ -71,3 +71,4 @@ The dataset contains real-world data science job information from 2023, includin
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard Screenshot](Dashboard.png)
